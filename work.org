@@ -1,0 +1,18 @@
+#+STARTUP: showall
+#+STARTUP: hidestar
+#+TAGS: @work(w) @weibo @home(h) @bug_fix(b) @feature(f)  @version_641 @version_640 @maybe
+
+* 微博
+** TODO 发布器拦截弹框                 :@work:@weibo:@feature:@version_641:
+SCHEDULED: <2016-04-05 Tue> DEADLINE: <2016-04-07 Thu>
+** TODO 选择兴趣card jira 修改         :@work:@weibo:@bug_fix:@version_641:
+note: 测试账号： yayutest999@sina.com 密码:1234qwer
+*** TODO 点击选择兴趣card，字体颜色加深 
+*** TODO 感兴趣后的文案修改
+*** TODO 点击后然可在此点击显示loading状态
+*** TODO 感兴趣趋势点击后，滑动回来从新显示为感兴趣 
+*** TODO 將人物头像换成微博任务通用结构
+
+** TODO push/active gsid 替换          :@work:@weibo:@bug_fix:@version_641:
+** TODO 微信登錄                :@work:@weibo:@feature:@version_641:@maybe:
+
